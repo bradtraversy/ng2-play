@@ -2,6 +2,8 @@
 
 A minimal [Angular2](https://angular.io/) playground using [TypeScript](http://www.typescriptlang.org/) and [SystemJS loader](https://github.com/systemjs/systemjs)
 
+This package has been edited from the original. The hello.ts was removed and a core app component was created along with a main.ts bootstrapper
+
 ## Install
 
 Clone this repo and execute in your favourite shell:
